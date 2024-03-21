@@ -1,3 +1,6 @@
 *.txt
 *.npy
 *.pth
+
+*.png
+*.pyc
